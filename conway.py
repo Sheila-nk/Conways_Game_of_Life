@@ -1,4 +1,5 @@
 import random, sys, copy, time
+
 def conway_game(height, width):
     #create an initial configuration using the random module
     config = []

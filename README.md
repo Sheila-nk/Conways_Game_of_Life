@@ -12,6 +12,7 @@ The “game” is a zero-player game, meaning that its evolution is determined b
 4. If a cell is OFF and has exactly three neighbors that are ON, it turns ON.
 
 ##Example
+---
 | *original configuration* | *second configuration* | *third configuration |
 | ------------------------- | ------------------------- | ------------------------- |
 | ![config_1](images/config1.png) | ![config_2](images/config2.png) | ![config_3](images/config3.png) |
